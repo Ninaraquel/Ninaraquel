@@ -2,7 +2,7 @@
 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, estou buscando aprimorar meus conhecimentos através de cursos, bootcamps. Amo aprender coisas novas, e pretendo seguir a carreira de desenvolvedora de software.
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NinaRaquel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nina-raquel)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nynaferreira.souza@gmail.com)
 
 ## Habilidades em desenvolvimento e Ferramentas
