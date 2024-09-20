@@ -1,5 +1,6 @@
-# Sobre mim
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, estou buscando aprimorar meus conhecimentos através de cursos, bootcamps. Amo aprender coisas novas, e pretendo seguir a carreira de desenvolvedora de software.
+# Sobre mim:
+Graduanda em Análise e Desenvolvimento de Sistemas, amo a área de tecnologia, estou em apredizado contínuo, com intuito de adquirir conhecimentos 
+e desenvolver minhas habilidades conforme cada aprendizado, tenho como objetivo seguir a carreira de Desenvolvedora de Software em especial Back-end.
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nina-raquel)
