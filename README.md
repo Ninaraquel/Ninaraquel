@@ -1,6 +1,6 @@
-# Sobre mim:
-Graduanda em Análise e Desenvolvimento de Sistemas, amo a área de tecnologia, estou em apredizado contínuo, com intuito de adquirir conhecimentos 
-e desenvolver minhas habilidades conforme cada aprendizado, tenho como objetivo seguir a carreira de Desenvolvedora de Software em especial Back-end.
+# Sobre mim👩‍💻
+Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e em constante aprendizado. Busco adquirir conhecimentos 
+e desenvolver habilidades a cada nova experiência. Meu objetivo é construir uma carreira como Desenvolvedora de Software, com foco especial em Back-end.
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nina-raquel)
