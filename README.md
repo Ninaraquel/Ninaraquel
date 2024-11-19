@@ -1,6 +1,6 @@
 # Sobre mim👩‍💻
 Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e em constante aprendizado. Busco adquirir conhecimentos 
-e desenvolver habilidades a cada nova experiência. Meu objetivo é construir uma carreira como Desenvolvedora de Software, com foco especial em Back-end.
+e desenvolver habilidades a cada nova experiência. Meu objetivo é construir uma carreira como Desenvolvedora de Software, com foco especial em Back-end ou Fullstack.
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nina-raquel)
