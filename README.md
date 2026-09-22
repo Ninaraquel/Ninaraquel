@@ -7,7 +7,7 @@ e desenvolver habilidades a cada nova experiência. Meu objetivo é construir um
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nynaferreira.souza@gmail.com)
 
 ## Habilidades em desenvolvimento e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,html,css,React.js,idea,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,html,css,icons/React-Dark.svg,idea,git)](https://skillicons.dev)
  ## GitHub Stats
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ninaraquel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff)
  ## Card - Most Used Languages
